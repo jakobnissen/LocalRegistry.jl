@@ -105,6 +105,9 @@ register()
 This is also sufficient for registering a new package, provided that
 you have exactly one installed registry beside the `General` registry.
 
+## Tutorials
+
+* [Creating a registry at Github](docs/tutorials/create_registry_github.md)
 
 ## Advanced Topics
 
